@@ -35,6 +35,12 @@
   # Este es un cambio sobre mi rama
   
   
+  # Guardar graficos
+  getwd()
+  png("grafico.png")
+  plot(df$hp, main = "Grafico")
+  dev.off()
+  
   
   
   
