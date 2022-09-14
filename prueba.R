@@ -1,2 +1,0 @@
-# Taller
-names(mtcars)
